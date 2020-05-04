@@ -18,6 +18,8 @@ Use Django and the Django REST Framework to build an API of books.
 
 Please turn in your submission by the deadline on your cohort calendar.
 
+Follow this simple [Git Paired Programming workflow](https://git.generalassemb.ly/seir-323/paired-homeworks.md/blob/master/README.md).
+
 ## Requirements
 
 ### Part 1
