@@ -16,9 +16,7 @@ Use Django and the Django REST Framework to build an API of books.
 1.  Set up a virtual environment and install dependencies.
 1.  Fulfill the listed requirements.
 
-Please turn in your submission by the deadline on your cohort calendar.
-
-Follow this simple [Git Paired Programming workflow](https://git.generalassemb.ly/seir-323/paired-homeworks.md/blob/master/README.md).
+Please turn in your submission by 10 am ET tomorrow via Pull Request on this repo. 
 
 ## Requirements
 
@@ -51,7 +49,7 @@ your views and URLs.
 Make it so you can perform full CRUD on your Book model (without needing to be
 logged in).
 
-### Part 2
+## Bonus I 
 
 Implement a `User` model with authentication. Users should be able to create an
 account, sign in (through the API, not a UI), and get a token.
@@ -59,9 +57,9 @@ account, sign in (through the API, not a UI), and get a token.
 Set up permissions so that any user can read books from your database (both list
 and detail), but only authenticated users can create, update, or delete books.
 
-## Bonus
+## Bonus II
 
-Implement one of the following as a bonus. When you finish, implement the rest!
+Implement any or all of the following as a bonus! 
 
 * [Validation](https://www.django-rest-framework.org/api-guide/validators/)
 * [Throttling](https://www.django-rest-framework.org/api-guide/throttling/)
