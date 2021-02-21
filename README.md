@@ -16,7 +16,7 @@ Use Django and the Django REST Framework to build an API of books.
 1.  Set up a virtual environment and install dependencies.
 1.  Fulfill the listed requirements.
 
-Please turn in your submission by 10 am ET tomorrow via Pull Request on this repo. 
+Please turn in your submission by 9 am ET tomorrow via Pull Request on this repo. 
 
 ## Requirements
 
